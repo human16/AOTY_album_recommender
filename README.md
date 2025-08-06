@@ -1,5 +1,5 @@
 # AOTY_album_recommender
-Find your next favorite album using your [AOTY](albumoftheyear.org) profile 
+Find your next favorite album using your [AOTY](https://www.albumoftheyear.org) profile 
 
 
 ## Functionality
